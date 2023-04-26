@@ -1,0 +1,100 @@
+
+
+.darkbody{
+    background-color: rgb(86 2 2) !important;
+    /* color:#fff !important; */
+}
+
+
+.darkheader{
+        background-color: rgb(18 0 0 / 51%);
+}
+
+.mytargetdark{
+color: yellow !important;
+background-color: rgb(246, 245, 250) !important;
+}
+
+.mytargetdark:hover{
+    box-shadow: 0 0 30px yellow;
+    }
+
+.sectionsdark{
+/* background-color: rgba(126, 81, 81, 0.99) !important; */
+background-color: rgba(114, 53, 53, 0.99) !important;
+color: white !important;
+
+}
+
+
+.myaddbuttondark{
+    background-color: rgb(86 2 2)  !important;
+}
+.myaddbuttondark:hover{
+    box-shadow: 0 0 30px yellow !important;
+
+}
+
+.section4dark{
+    border-top: 7px solid white;
+
+}
+
+.thetitle{
+    border-bottom: 3px solid white !important;
+}
+.darkbody #section99{
+    color: #000;
+}
+
+  .section2 .daark .cart{
+background-color: rgb(86 2 2) !important;
+  color: white;
+}
+
+.section2 .daark .cart button {
+    background-color: rgb(244, 175, 206) !important;
+    color: rgb(5, 5, 5) !important;
+}
+
+.mydark{
+    color: black !important;
+}
+
+
+.myfavbutton1dark{
+background-color: white !important;
+color: black !important;
+
+}
+
+.sectionsdark h3,p:not("icon-contrast"),h4{
+    color: black !important;
+}
+
+.darkbody .card{
+background-color: rgba(255, 255, 255, 0.774)  ; 
+box-shadow: 0 0 10px white !important;
+
+}
+
+.darkbody .btn{
+    background-color:  rgb(86 2 2) !important ;
+    border: none;
+}
+.darkbody .btn:hover{
+    background-color:  rgb(160, 3, 3) !important ;
+}
+
+
+.darkbody.colorbuy{
+    background-color: #00d56b !important;
+
+  
+  }
+
+
+
+
+
+
